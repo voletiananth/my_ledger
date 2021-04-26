@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1041548719920-2bsl1vsm3tt6n4a7ecd2vqteef4htrb8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1041548719920</string>
+    <string name="google_api_key" translatable="false">AIzaSyAs_sGItspdFdDnE3SysPOeEvnUuQ_ZElk</string>
+    <string name="google_app_id" translatable="false">1:1041548719920:android:449076988cebe7dcb57af5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAs_sGItspdFdDnE3SysPOeEvnUuQ_ZElk</string>
+    <string name="google_storage_bucket" translatable="false">naakathabook.appspot.com</string>
+    <string name="project_id" translatable="false">naakathabook</string>
+</resources>

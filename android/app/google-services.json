@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041548719920",
+    "project_id": "naakathabook",
+    "storage_bucket": "naakathabook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041548719920:android:b485d686a8e86020b57af5",
+        "android_client_info": {
+          "package_name": "com.voleti.my_ledger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041548719920-8e7mpjsrdcclpejbnrcqqmermh8nh5i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voleti.my_ledger",
+            "certificate_hash": "8933564b6493f22c736d2c50c7af102af97a788f"
+          }
+        },
+        {
+          "client_id": "1041548719920-2bsl1vsm3tt6n4a7ecd2vqteef4htrb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_sGItspdFdDnE3SysPOeEvnUuQ_ZElk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041548719920-2bsl1vsm3tt6n4a7ecd2vqteef4htrb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

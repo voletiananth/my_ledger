@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/voleti/my_ledger/BuildConfig.java
+ com.voleti.my_ledger.BuildConfig
