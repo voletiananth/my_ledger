@@ -8,12 +8,10 @@ class MobileNumberState with _$MobileNumberState {
           required MobileNumberInputState inputState,
           required Option<Either<MobileNumberFailure, Unit>>
               mobileVerifyFailedOrSuccess,
-          required OtpDialogState otpDialogState,
           required Option<Either<OtpFailure, Unit>> otpVerifyFailedOrSuccess}) =
       _MobileNumberState;
 
   factory MobileNumberState.initial() => MobileNumberState(
-      otpDialogState: OtpDialogState.invalid(),
       otpVerifyFailedOrSuccess: none(),
       mobileNumber: MobileNumber(''),
       buttonState: MobileNumberButtonState.unClickable(),

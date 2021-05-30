@@ -56,7 +56,7 @@ class AuthRepositoryImpl implements AuthRepository {
           actualCode = verificationId;
         },
         codeAutoRetrievalTimeout: (verificationId) {
-          print('codeAutoretreval');
+          print('codeAutodetect');
           actualCode = verificationId;
           callbacks(left(MobileNumberFailure.autoRetrieval()));
         });
@@ -81,57 +81,3 @@ class AuthRepositoryImpl implements AuthRepository {
     });
   }
 }
-
-//
-// @override
-// Future<void> verifyNumber(MobileNumber mobileNumber,
-//     UseCaseResult<Unit, MobileNumberFailure> callbacks) async {
-//   print('before verify');
-//   await _remoteDataSource.verifyPhoneNumber(
-//       phoneNumber: mobileNumber.value,
-//       verificationCompleted: (authCredential) async {
-//         print('onComplete');
-//         await _remoteDataSource
-//             .signInWithCredential(authCredential)
-//             .then((value) {
-//           if (value.user != null) {
-//             callbacks.onSuccess(unit);
-//           } else {
-//             callbacks.onFailure(MobileNumberFailure.invalid());
-//           }
-//         }).catchError((error) {
-//           callbacks.onFailure(MobileNumberFailure.invalid());
-//         });
-//       },
-//       verificationFailed: (authException) {
-//         print(authException);
-//         callbacks.onFailure(MobileNumberFailure.incorrect());
-//       },
-//       codeSent: (verificationId, token) {
-//         print('onCodeSent');
-//         actualCode = verificationId;
-//       },
-//       codeAutoRetrievalTimeout: (verificationId) {
-//         print('codeAutoretreval');
-//         actualCode = verificationId;
-//         callbacks.onFailure(MobileNumberFailure.autoRetrieval());
-//       });
-//
-//   print('after verify');
-// }
-//
-// @override
-// Future<void> verifyOtp(
-//     Otp otp, UseCaseResult<Unit, OtpFailure> callbacks) async {
-//   final AuthCredential _authCredential = PhoneAuthProvider.credential(
-//       verificationId: this.actualCode, smsCode: otp.value);
-//   await _remoteDataSource.signInWithCredential(_authCredential).then((value) {
-//     if (value.user != null) {
-//       callbacks.onSuccess(unit);
-//     } else {
-//       callbacks.onFailure(OtpFailure.unknown());
-//     }
-//   }).catchError((error) {
-//     callbacks.onFailure(OtpFailure.wrongCode());
-//   });
-// }

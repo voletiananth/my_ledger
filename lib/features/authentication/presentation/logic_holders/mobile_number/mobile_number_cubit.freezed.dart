@@ -22,14 +22,12 @@ class _$MobileNumberStateTearOff {
       required MobileNumberInputState inputState,
       required Option<Either<MobileNumberFailure, Unit>>
           mobileVerifyFailedOrSuccess,
-      required OtpDialogState otpDialogState,
       required Option<Either<OtpFailure, Unit>> otpVerifyFailedOrSuccess}) {
     return _MobileNumberState(
       mobileNumber: mobileNumber,
       buttonState: buttonState,
       inputState: inputState,
       mobileVerifyFailedOrSuccess: mobileVerifyFailedOrSuccess,
-      otpDialogState: otpDialogState,
       otpVerifyFailedOrSuccess: otpVerifyFailedOrSuccess,
     );
   }
@@ -45,7 +43,6 @@ mixin _$MobileNumberState {
   MobileNumberInputState get inputState => throw _privateConstructorUsedError;
   Option<Either<MobileNumberFailure, Unit>> get mobileVerifyFailedOrSuccess =>
       throw _privateConstructorUsedError;
-  OtpDialogState get otpDialogState => throw _privateConstructorUsedError;
   Option<Either<OtpFailure, Unit>> get otpVerifyFailedOrSuccess =>
       throw _privateConstructorUsedError;
 
@@ -64,12 +61,10 @@ abstract class $MobileNumberStateCopyWith<$Res> {
       MobileNumberButtonState buttonState,
       MobileNumberInputState inputState,
       Option<Either<MobileNumberFailure, Unit>> mobileVerifyFailedOrSuccess,
-      OtpDialogState otpDialogState,
       Option<Either<OtpFailure, Unit>> otpVerifyFailedOrSuccess});
 
   $MobileNumberButtonStateCopyWith<$Res> get buttonState;
   $MobileNumberInputStateCopyWith<$Res> get inputState;
-  $OtpDialogStateCopyWith<$Res> get otpDialogState;
 }
 
 /// @nodoc
@@ -87,7 +82,6 @@ class _$MobileNumberStateCopyWithImpl<$Res>
     Object? buttonState = freezed,
     Object? inputState = freezed,
     Object? mobileVerifyFailedOrSuccess = freezed,
-    Object? otpDialogState = freezed,
     Object? otpVerifyFailedOrSuccess = freezed,
   }) {
     return _then(_value.copyWith(
@@ -107,10 +101,6 @@ class _$MobileNumberStateCopyWithImpl<$Res>
           ? _value.mobileVerifyFailedOrSuccess
           : mobileVerifyFailedOrSuccess // ignore: cast_nullable_to_non_nullable
               as Option<Either<MobileNumberFailure, Unit>>,
-      otpDialogState: otpDialogState == freezed
-          ? _value.otpDialogState
-          : otpDialogState // ignore: cast_nullable_to_non_nullable
-              as OtpDialogState,
       otpVerifyFailedOrSuccess: otpVerifyFailedOrSuccess == freezed
           ? _value.otpVerifyFailedOrSuccess
           : otpVerifyFailedOrSuccess // ignore: cast_nullable_to_non_nullable
@@ -131,13 +121,6 @@ class _$MobileNumberStateCopyWithImpl<$Res>
       return _then(_value.copyWith(inputState: value));
     });
   }
-
-  @override
-  $OtpDialogStateCopyWith<$Res> get otpDialogState {
-    return $OtpDialogStateCopyWith<$Res>(_value.otpDialogState, (value) {
-      return _then(_value.copyWith(otpDialogState: value));
-    });
-  }
 }
 
 /// @nodoc
@@ -152,15 +135,12 @@ abstract class _$MobileNumberStateCopyWith<$Res>
       MobileNumberButtonState buttonState,
       MobileNumberInputState inputState,
       Option<Either<MobileNumberFailure, Unit>> mobileVerifyFailedOrSuccess,
-      OtpDialogState otpDialogState,
       Option<Either<OtpFailure, Unit>> otpVerifyFailedOrSuccess});
 
   @override
   $MobileNumberButtonStateCopyWith<$Res> get buttonState;
   @override
   $MobileNumberInputStateCopyWith<$Res> get inputState;
-  @override
-  $OtpDialogStateCopyWith<$Res> get otpDialogState;
 }
 
 /// @nodoc
@@ -180,7 +160,6 @@ class __$MobileNumberStateCopyWithImpl<$Res>
     Object? buttonState = freezed,
     Object? inputState = freezed,
     Object? mobileVerifyFailedOrSuccess = freezed,
-    Object? otpDialogState = freezed,
     Object? otpVerifyFailedOrSuccess = freezed,
   }) {
     return _then(_MobileNumberState(
@@ -200,10 +179,6 @@ class __$MobileNumberStateCopyWithImpl<$Res>
           ? _value.mobileVerifyFailedOrSuccess
           : mobileVerifyFailedOrSuccess // ignore: cast_nullable_to_non_nullable
               as Option<Either<MobileNumberFailure, Unit>>,
-      otpDialogState: otpDialogState == freezed
-          ? _value.otpDialogState
-          : otpDialogState // ignore: cast_nullable_to_non_nullable
-              as OtpDialogState,
       otpVerifyFailedOrSuccess: otpVerifyFailedOrSuccess == freezed
           ? _value.otpVerifyFailedOrSuccess
           : otpVerifyFailedOrSuccess // ignore: cast_nullable_to_non_nullable
@@ -219,7 +194,6 @@ class _$_MobileNumberState implements _MobileNumberState {
       required this.buttonState,
       required this.inputState,
       required this.mobileVerifyFailedOrSuccess,
-      required this.otpDialogState,
       required this.otpVerifyFailedOrSuccess});
 
   @override
@@ -231,13 +205,11 @@ class _$_MobileNumberState implements _MobileNumberState {
   @override
   final Option<Either<MobileNumberFailure, Unit>> mobileVerifyFailedOrSuccess;
   @override
-  final OtpDialogState otpDialogState;
-  @override
   final Option<Either<OtpFailure, Unit>> otpVerifyFailedOrSuccess;
 
   @override
   String toString() {
-    return 'MobileNumberState(mobileNumber: $mobileNumber, buttonState: $buttonState, inputState: $inputState, mobileVerifyFailedOrSuccess: $mobileVerifyFailedOrSuccess, otpDialogState: $otpDialogState, otpVerifyFailedOrSuccess: $otpVerifyFailedOrSuccess)';
+    return 'MobileNumberState(mobileNumber: $mobileNumber, buttonState: $buttonState, inputState: $inputState, mobileVerifyFailedOrSuccess: $mobileVerifyFailedOrSuccess, otpVerifyFailedOrSuccess: $otpVerifyFailedOrSuccess)';
   }
 
   @override
@@ -258,9 +230,6 @@ class _$_MobileNumberState implements _MobileNumberState {
                 const DeepCollectionEquality().equals(
                     other.mobileVerifyFailedOrSuccess,
                     mobileVerifyFailedOrSuccess)) &&
-            (identical(other.otpDialogState, otpDialogState) ||
-                const DeepCollectionEquality()
-                    .equals(other.otpDialogState, otpDialogState)) &&
             (identical(
                     other.otpVerifyFailedOrSuccess, otpVerifyFailedOrSuccess) ||
                 const DeepCollectionEquality().equals(
@@ -274,7 +243,6 @@ class _$_MobileNumberState implements _MobileNumberState {
       const DeepCollectionEquality().hash(buttonState) ^
       const DeepCollectionEquality().hash(inputState) ^
       const DeepCollectionEquality().hash(mobileVerifyFailedOrSuccess) ^
-      const DeepCollectionEquality().hash(otpDialogState) ^
       const DeepCollectionEquality().hash(otpVerifyFailedOrSuccess);
 
   @JsonKey(ignore: true)
@@ -290,7 +258,6 @@ abstract class _MobileNumberState implements MobileNumberState {
           required MobileNumberInputState inputState,
           required Option<Either<MobileNumberFailure, Unit>>
               mobileVerifyFailedOrSuccess,
-          required OtpDialogState otpDialogState,
           required Option<Either<OtpFailure, Unit>> otpVerifyFailedOrSuccess}) =
       _$_MobileNumberState;
 
@@ -303,8 +270,6 @@ abstract class _MobileNumberState implements MobileNumberState {
   @override
   Option<Either<MobileNumberFailure, Unit>> get mobileVerifyFailedOrSuccess =>
       throw _privateConstructorUsedError;
-  @override
-  OtpDialogState get otpDialogState => throw _privateConstructorUsedError;
   @override
   Option<Either<OtpFailure, Unit>> get otpVerifyFailedOrSuccess =>
       throw _privateConstructorUsedError;
@@ -979,447 +944,4 @@ class _$_Error implements _Error {
 
 abstract class _Error implements MobileNumberInputState {
   const factory _Error() = _$_Error;
-}
-
-/// @nodoc
-class _$OtpDialogStateTearOff {
-  const _$OtpDialogStateTearOff();
-
-  _OtpLoading loading() {
-    return const _OtpLoading();
-  }
-
-  _OtpValid valid() {
-    return const _OtpValid();
-  }
-
-  _OtpInvalid invalid() {
-    return const _OtpInvalid();
-  }
-
-  _OtpError error() {
-    return const _OtpError();
-  }
-}
-
-/// @nodoc
-const $OtpDialogState = _$OtpDialogStateTearOff();
-
-/// @nodoc
-mixin _$OtpDialogState {
-  @optionalTypeArgs
-  TResult when<TResult extends Object?>({
-    required TResult Function() loading,
-    required TResult Function() valid,
-    required TResult Function() invalid,
-    required TResult Function() error,
-  }) =>
-      throw _privateConstructorUsedError;
-  @optionalTypeArgs
-  TResult maybeWhen<TResult extends Object?>({
-    TResult Function()? loading,
-    TResult Function()? valid,
-    TResult Function()? invalid,
-    TResult Function()? error,
-    required TResult orElse(),
-  }) =>
-      throw _privateConstructorUsedError;
-  @optionalTypeArgs
-  TResult map<TResult extends Object?>({
-    required TResult Function(_OtpLoading value) loading,
-    required TResult Function(_OtpValid value) valid,
-    required TResult Function(_OtpInvalid value) invalid,
-    required TResult Function(_OtpError value) error,
-  }) =>
-      throw _privateConstructorUsedError;
-  @optionalTypeArgs
-  TResult maybeMap<TResult extends Object?>({
-    TResult Function(_OtpLoading value)? loading,
-    TResult Function(_OtpValid value)? valid,
-    TResult Function(_OtpInvalid value)? invalid,
-    TResult Function(_OtpError value)? error,
-    required TResult orElse(),
-  }) =>
-      throw _privateConstructorUsedError;
-}
-
-/// @nodoc
-abstract class $OtpDialogStateCopyWith<$Res> {
-  factory $OtpDialogStateCopyWith(
-          OtpDialogState value, $Res Function(OtpDialogState) then) =
-      _$OtpDialogStateCopyWithImpl<$Res>;
-}
-
-/// @nodoc
-class _$OtpDialogStateCopyWithImpl<$Res>
-    implements $OtpDialogStateCopyWith<$Res> {
-  _$OtpDialogStateCopyWithImpl(this._value, this._then);
-
-  final OtpDialogState _value;
-  // ignore: unused_field
-  final $Res Function(OtpDialogState) _then;
-}
-
-/// @nodoc
-abstract class _$OtpLoadingCopyWith<$Res> {
-  factory _$OtpLoadingCopyWith(
-          _OtpLoading value, $Res Function(_OtpLoading) then) =
-      __$OtpLoadingCopyWithImpl<$Res>;
-}
-
-/// @nodoc
-class __$OtpLoadingCopyWithImpl<$Res> extends _$OtpDialogStateCopyWithImpl<$Res>
-    implements _$OtpLoadingCopyWith<$Res> {
-  __$OtpLoadingCopyWithImpl(
-      _OtpLoading _value, $Res Function(_OtpLoading) _then)
-      : super(_value, (v) => _then(v as _OtpLoading));
-
-  @override
-  _OtpLoading get _value => super._value as _OtpLoading;
-}
-
-/// @nodoc
-class _$_OtpLoading implements _OtpLoading {
-  const _$_OtpLoading();
-
-  @override
-  String toString() {
-    return 'OtpDialogState.loading()';
-  }
-
-  @override
-  bool operator ==(dynamic other) {
-    return identical(this, other) || (other is _OtpLoading);
-  }
-
-  @override
-  int get hashCode => runtimeType.hashCode;
-
-  @override
-  @optionalTypeArgs
-  TResult when<TResult extends Object?>({
-    required TResult Function() loading,
-    required TResult Function() valid,
-    required TResult Function() invalid,
-    required TResult Function() error,
-  }) {
-    return loading();
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult maybeWhen<TResult extends Object?>({
-    TResult Function()? loading,
-    TResult Function()? valid,
-    TResult Function()? invalid,
-    TResult Function()? error,
-    required TResult orElse(),
-  }) {
-    if (loading != null) {
-      return loading();
-    }
-    return orElse();
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult map<TResult extends Object?>({
-    required TResult Function(_OtpLoading value) loading,
-    required TResult Function(_OtpValid value) valid,
-    required TResult Function(_OtpInvalid value) invalid,
-    required TResult Function(_OtpError value) error,
-  }) {
-    return loading(this);
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult maybeMap<TResult extends Object?>({
-    TResult Function(_OtpLoading value)? loading,
-    TResult Function(_OtpValid value)? valid,
-    TResult Function(_OtpInvalid value)? invalid,
-    TResult Function(_OtpError value)? error,
-    required TResult orElse(),
-  }) {
-    if (loading != null) {
-      return loading(this);
-    }
-    return orElse();
-  }
-}
-
-abstract class _OtpLoading implements OtpDialogState {
-  const factory _OtpLoading() = _$_OtpLoading;
-}
-
-/// @nodoc
-abstract class _$OtpValidCopyWith<$Res> {
-  factory _$OtpValidCopyWith(_OtpValid value, $Res Function(_OtpValid) then) =
-      __$OtpValidCopyWithImpl<$Res>;
-}
-
-/// @nodoc
-class __$OtpValidCopyWithImpl<$Res> extends _$OtpDialogStateCopyWithImpl<$Res>
-    implements _$OtpValidCopyWith<$Res> {
-  __$OtpValidCopyWithImpl(_OtpValid _value, $Res Function(_OtpValid) _then)
-      : super(_value, (v) => _then(v as _OtpValid));
-
-  @override
-  _OtpValid get _value => super._value as _OtpValid;
-}
-
-/// @nodoc
-class _$_OtpValid implements _OtpValid {
-  const _$_OtpValid();
-
-  @override
-  String toString() {
-    return 'OtpDialogState.valid()';
-  }
-
-  @override
-  bool operator ==(dynamic other) {
-    return identical(this, other) || (other is _OtpValid);
-  }
-
-  @override
-  int get hashCode => runtimeType.hashCode;
-
-  @override
-  @optionalTypeArgs
-  TResult when<TResult extends Object?>({
-    required TResult Function() loading,
-    required TResult Function() valid,
-    required TResult Function() invalid,
-    required TResult Function() error,
-  }) {
-    return valid();
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult maybeWhen<TResult extends Object?>({
-    TResult Function()? loading,
-    TResult Function()? valid,
-    TResult Function()? invalid,
-    TResult Function()? error,
-    required TResult orElse(),
-  }) {
-    if (valid != null) {
-      return valid();
-    }
-    return orElse();
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult map<TResult extends Object?>({
-    required TResult Function(_OtpLoading value) loading,
-    required TResult Function(_OtpValid value) valid,
-    required TResult Function(_OtpInvalid value) invalid,
-    required TResult Function(_OtpError value) error,
-  }) {
-    return valid(this);
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult maybeMap<TResult extends Object?>({
-    TResult Function(_OtpLoading value)? loading,
-    TResult Function(_OtpValid value)? valid,
-    TResult Function(_OtpInvalid value)? invalid,
-    TResult Function(_OtpError value)? error,
-    required TResult orElse(),
-  }) {
-    if (valid != null) {
-      return valid(this);
-    }
-    return orElse();
-  }
-}
-
-abstract class _OtpValid implements OtpDialogState {
-  const factory _OtpValid() = _$_OtpValid;
-}
-
-/// @nodoc
-abstract class _$OtpInvalidCopyWith<$Res> {
-  factory _$OtpInvalidCopyWith(
-          _OtpInvalid value, $Res Function(_OtpInvalid) then) =
-      __$OtpInvalidCopyWithImpl<$Res>;
-}
-
-/// @nodoc
-class __$OtpInvalidCopyWithImpl<$Res> extends _$OtpDialogStateCopyWithImpl<$Res>
-    implements _$OtpInvalidCopyWith<$Res> {
-  __$OtpInvalidCopyWithImpl(
-      _OtpInvalid _value, $Res Function(_OtpInvalid) _then)
-      : super(_value, (v) => _then(v as _OtpInvalid));
-
-  @override
-  _OtpInvalid get _value => super._value as _OtpInvalid;
-}
-
-/// @nodoc
-class _$_OtpInvalid implements _OtpInvalid {
-  const _$_OtpInvalid();
-
-  @override
-  String toString() {
-    return 'OtpDialogState.invalid()';
-  }
-
-  @override
-  bool operator ==(dynamic other) {
-    return identical(this, other) || (other is _OtpInvalid);
-  }
-
-  @override
-  int get hashCode => runtimeType.hashCode;
-
-  @override
-  @optionalTypeArgs
-  TResult when<TResult extends Object?>({
-    required TResult Function() loading,
-    required TResult Function() valid,
-    required TResult Function() invalid,
-    required TResult Function() error,
-  }) {
-    return invalid();
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult maybeWhen<TResult extends Object?>({
-    TResult Function()? loading,
-    TResult Function()? valid,
-    TResult Function()? invalid,
-    TResult Function()? error,
-    required TResult orElse(),
-  }) {
-    if (invalid != null) {
-      return invalid();
-    }
-    return orElse();
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult map<TResult extends Object?>({
-    required TResult Function(_OtpLoading value) loading,
-    required TResult Function(_OtpValid value) valid,
-    required TResult Function(_OtpInvalid value) invalid,
-    required TResult Function(_OtpError value) error,
-  }) {
-    return invalid(this);
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult maybeMap<TResult extends Object?>({
-    TResult Function(_OtpLoading value)? loading,
-    TResult Function(_OtpValid value)? valid,
-    TResult Function(_OtpInvalid value)? invalid,
-    TResult Function(_OtpError value)? error,
-    required TResult orElse(),
-  }) {
-    if (invalid != null) {
-      return invalid(this);
-    }
-    return orElse();
-  }
-}
-
-abstract class _OtpInvalid implements OtpDialogState {
-  const factory _OtpInvalid() = _$_OtpInvalid;
-}
-
-/// @nodoc
-abstract class _$OtpErrorCopyWith<$Res> {
-  factory _$OtpErrorCopyWith(_OtpError value, $Res Function(_OtpError) then) =
-      __$OtpErrorCopyWithImpl<$Res>;
-}
-
-/// @nodoc
-class __$OtpErrorCopyWithImpl<$Res> extends _$OtpDialogStateCopyWithImpl<$Res>
-    implements _$OtpErrorCopyWith<$Res> {
-  __$OtpErrorCopyWithImpl(_OtpError _value, $Res Function(_OtpError) _then)
-      : super(_value, (v) => _then(v as _OtpError));
-
-  @override
-  _OtpError get _value => super._value as _OtpError;
-}
-
-/// @nodoc
-class _$_OtpError implements _OtpError {
-  const _$_OtpError();
-
-  @override
-  String toString() {
-    return 'OtpDialogState.error()';
-  }
-
-  @override
-  bool operator ==(dynamic other) {
-    return identical(this, other) || (other is _OtpError);
-  }
-
-  @override
-  int get hashCode => runtimeType.hashCode;
-
-  @override
-  @optionalTypeArgs
-  TResult when<TResult extends Object?>({
-    required TResult Function() loading,
-    required TResult Function() valid,
-    required TResult Function() invalid,
-    required TResult Function() error,
-  }) {
-    return error();
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult maybeWhen<TResult extends Object?>({
-    TResult Function()? loading,
-    TResult Function()? valid,
-    TResult Function()? invalid,
-    TResult Function()? error,
-    required TResult orElse(),
-  }) {
-    if (error != null) {
-      return error();
-    }
-    return orElse();
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult map<TResult extends Object?>({
-    required TResult Function(_OtpLoading value) loading,
-    required TResult Function(_OtpValid value) valid,
-    required TResult Function(_OtpInvalid value) invalid,
-    required TResult Function(_OtpError value) error,
-  }) {
-    return error(this);
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult maybeMap<TResult extends Object?>({
-    TResult Function(_OtpLoading value)? loading,
-    TResult Function(_OtpValid value)? valid,
-    TResult Function(_OtpInvalid value)? invalid,
-    TResult Function(_OtpError value)? error,
-    required TResult orElse(),
-  }) {
-    if (error != null) {
-      return error(this);
-    }
-    return orElse();
-  }
-}
-
-abstract class _OtpError implements OtpDialogState {
-  const factory _OtpError() = _$_OtpError;
 }

@@ -13,11 +13,3 @@ class MobileNumberInputState with _$MobileNumberInputState {
   const factory MobileNumberInputState.disabled() = _Disabled;
   const factory MobileNumberInputState.error() = _Error;
 }
-
-@freezed
-class OtpDialogState with _$OtpDialogState {
-  const factory OtpDialogState.loading() = _OtpLoading;
-  const factory OtpDialogState.valid() = _OtpValid;
-  const factory OtpDialogState.invalid() = _OtpInvalid;
-  const factory OtpDialogState.error() = _OtpError;
-}

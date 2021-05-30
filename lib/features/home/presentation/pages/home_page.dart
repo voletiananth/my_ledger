@@ -1,14 +1,14 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:my_ledger/core/di/injection.dart';
-
+import 'package:my_ledger/features/authentication/presentation/pages/mobile_number_page/mobile_number_page.dart';
 import 'package:my_ledger/features/dashboard/presentation/pages/timeline_page.dart';
 import 'package:my_ledger/features/home/presentation/logic_holders/bottom_bar/bottom_bar_cubit.dart';
 
 class HomePage extends StatelessWidget {
-
   bool isFirst(int index) => index == 0 ? true : false;
   bool isLast(int index, int length) => index == length - 1;
   @override
@@ -49,17 +49,18 @@ class HomePage extends StatelessWidget {
                 return TimeLinePage();
               },
               isSecond: () => Center(
-                    child: Text('Account'),
-                  )),
+                      child: ElevatedButton(
+                    onPressed: () {
+                      getIt<FirebaseAuth>().signOut();
+                      Navigator.of(context)
+                          .popAndPushNamed(MobileNumberPage.routeName);
+                    },
+                    child: Text('Sign Out'),
+                  ))),
         ),
       ),
     );
   }
 
-
- static String routeName = '/home-page';
-
- 
-  
-
+  static String routeName = '/home-page';
 }

@@ -7,14 +7,20 @@ class MobileNumberButton extends StatelessWidget {
       listener: (context, state) {
         state.mobileVerifyFailedOrSuccess.fold(() {}, (a) {
           a.fold((l) {
+            context.read<ProgressHudCubit>().closeHud();
             l.when(
                 incorrect: () {},
                 unknown: () {},
                 autoRetrieval: () {
                   showDialog(
-                      context: context,
-                      builder: (_) => OtpDialog(),
-                      barrierDismissible: false);
+                          context: context,
+                          builder: (_) => BlocProvider<OtpCubit>(
+                              create: (context) => getIt<OtpCubit>(),
+                              child: OtpDialog()),
+                          barrierDismissible: false)
+                      .whenComplete(() {
+                    context.read<MobileNumberCubit>().closeDialog();
+                  });
                 },
                 invalid: () {});
           }, (r) {
@@ -24,26 +30,20 @@ class MobileNumberButton extends StatelessWidget {
       },
       builder: (context, state) {
         return ElevatedButton(
-          // onPressed: () async {
-          //   await showDialog(context: context, builder: (_) => OtpDialog());
-          // },
           onPressed: state.buttonState.maybeWhen(
               orElse: () => null,
               loading: () {},
-              clickable: () => () async {
+              clickable: () => () {
+                    context.read<ProgressHudCubit>().showHud();
                     context.read<MobileNumberCubit>().submit();
                   }),
           child: Container(
-            child: state.buttonState.maybeWhen(
-                orElse: () => Text('Continue'),
-                loading: () => CircularProgressIndicator(
-                      valueColor: AlwaysStoppedAnimation(Colors.white),
-                      backgroundColor: Theme.of(context).primaryColor,
-                    )),
+            child: Text('Continue'),
             alignment: Alignment.center,
             height: 40,
           ),
-          style: ElevatedButton.styleFrom(primary: Colors.black),
+          style:
+              ElevatedButton.styleFrom(primary: Theme.of(context).primaryColor),
         );
       },
     );
