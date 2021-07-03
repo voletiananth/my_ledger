@@ -9,28 +9,29 @@ MERGED from [:firebase_analytics] D:\my_ledger\build\firebase_analytics\intermed
 MERGED from [:firebase_auth] D:\my_ledger\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_core] D:\my_ledger\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ed9e0ec9fef0afe64b211f9cc5ae5a3b\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\e6bfb1fbe82633103878b9f7637284b3\jetified-firebase-analytics-ktx-18.0.3\AndroidManifest.xml:2:1-17:12
-MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3fc14508abf69332fc8f1be1662127a6\jetified-firebase-auth-ktx-20.0.4\AndroidManifest.xml:2:1-17:12
-MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\09f8895e44d256d36124b7b54343fbda\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:2:1-21:12
-MERGED from [com.google.firebase:firebase-analytics:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b5e8dbd19f18465cd437049cf4e608d7\jetified-firebase-analytics-18.0.3\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:17:1-83:12
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\1f6de034a1134de8a83e0394a01deb70\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:2:1-24:12
-MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ffce5d2bf412640061cf20882777ea9\jetified-firebase-analytics-ktx-19.0.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\9b5f0f56bc197e1b3eb9cbfe6f6d8ffe\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\dc0a75dd435626dbabdac45137c1fcba\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\86c05eb0cc311bf4fef8332a6d6cfc18\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\7af1273bb4df4cd96125b999586de8dd\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\662772ff09e1efc3e019adf5858e4467\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\5411e8a98af1c9416e7adc4e4a852142\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b2e818a75763ef1536ab023b08800028\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d69d3abc7ba7f1faf459e0226873599a\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:17:1-46:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\1852df82eccc14efc66f03c39f1f5579\jetified-play-services-measurement-sdk-18.0.3\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\7b179027a62fc2698fc6e110756245e0\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\317c50a086f81c5fb009739e9c3aa422\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\18a03121ec9d4083fd004c3abae3718d\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d67d03500d381b42596a836218b1b65d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\a1adca6dc448a25d8c202bc37619a468\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\bf71c34abc565a4c0fd9f55f7c358473\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\044aded6ea26e3826191bd93869c5d55\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cca7609ade5f14f72e7884b02df9691\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ac6c654743520714e226d165752874c\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\54834e2e5b84e8275b3653f220bf3c15\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4dd92bf7ff1bbfa360613d227eea1083\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\f11e7352381439c49883a04d1f375d7a\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3135374016b026e280d521ce5ff13c85\jetified-play-services-basement-17.1.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e83ed9649bd95fbba014d05be87f69d\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.browser:browser:1.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2c55fff1166b1dfdfd88e787cf058341\browser-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -51,7 +52,6 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\voleti\.gradle\cache
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\fcd3c502e5a075cc70f8a740689b28d5\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b27e9727239bb84f4e16b3ac1fd20c0d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\0c7587fc2767c51a9de783ad5000e7ad\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\cce113eda6b47a6597fae07599291b42\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b74f7d796a6a96af3dbe8c4a177f784d\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\7dc0777b35dfb1f921c2369dfe726ba8\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\33e622a20dcb91632a7a5448a1378917\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -84,44 +84,44 @@ MERGED from [:firebase_auth] D:\my_ledger\build\firebase_auth\intermediates\libr
 MERGED from [:firebase_auth] D:\my_ledger\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] D:\my_ledger\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] D:\my_ledger\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\e6bfb1fbe82633103878b9f7637284b3\jetified-firebase-analytics-ktx-18.0.3\AndroidManifest.xml:7:5-15:19
-MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\e6bfb1fbe82633103878b9f7637284b3\jetified-firebase-analytics-ktx-18.0.3\AndroidManifest.xml:7:5-15:19
-MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3fc14508abf69332fc8f1be1662127a6\jetified-firebase-auth-ktx-20.0.4\AndroidManifest.xml:7:5-15:19
-MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3fc14508abf69332fc8f1be1662127a6\jetified-firebase-auth-ktx-20.0.4\AndroidManifest.xml:7:5-15:19
-MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\09f8895e44d256d36124b7b54343fbda\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:11:5-19:19
-MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\09f8895e44d256d36124b7b54343fbda\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:11:5-19:19
-MERGED from [com.google.firebase:firebase-analytics:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b5e8dbd19f18465cd437049cf4e608d7\jetified-firebase-analytics-18.0.3\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b5e8dbd19f18465cd437049cf4e608d7\jetified-firebase-analytics-18.0.3\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:26:5-81:19
-MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:26:5-81:19
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\1f6de034a1134de8a83e0394a01deb70\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\1f6de034a1134de8a83e0394a01deb70\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
-MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
-MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
-MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ffce5d2bf412640061cf20882777ea9\jetified-firebase-analytics-ktx-19.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ffce5d2bf412640061cf20882777ea9\jetified-firebase-analytics-ktx-19.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\9b5f0f56bc197e1b3eb9cbfe6f6d8ffe\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\9b5f0f56bc197e1b3eb9cbfe6f6d8ffe\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\dc0a75dd435626dbabdac45137c1fcba\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\dc0a75dd435626dbabdac45137c1fcba\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\86c05eb0cc311bf4fef8332a6d6cfc18\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\86c05eb0cc311bf4fef8332a6d6cfc18\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\7af1273bb4df4cd96125b999586de8dd\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\7af1273bb4df4cd96125b999586de8dd\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b2e818a75763ef1536ab023b08800028\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b2e818a75763ef1536ab023b08800028\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d69d3abc7ba7f1faf459e0226873599a\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d69d3abc7ba7f1faf459e0226873599a\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:28:5-44:19
-MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:28:5-44:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\1852df82eccc14efc66f03c39f1f5579\jetified-play-services-measurement-sdk-18.0.3\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\1852df82eccc14efc66f03c39f1f5579\jetified-play-services-measurement-sdk-18.0.3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\317c50a086f81c5fb009739e9c3aa422\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\317c50a086f81c5fb009739e9c3aa422\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d67d03500d381b42596a836218b1b65d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d67d03500d381b42596a836218b1b65d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:28:5-29:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:28:5-29:19
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\a1adca6dc448a25d8c202bc37619a468\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\a1adca6dc448a25d8c202bc37619a468\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\044aded6ea26e3826191bd93869c5d55\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\044aded6ea26e3826191bd93869c5d55\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ac6c654743520714e226d165752874c\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ac6c654743520714e226d165752874c\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\54834e2e5b84e8275b3653f220bf3c15\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\54834e2e5b84e8275b3653f220bf3c15\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4dd92bf7ff1bbfa360613d227eea1083\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4dd92bf7ff1bbfa360613d227eea1083\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\f11e7352381439c49883a04d1f375d7a\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\f11e7352381439c49883a04d1f375d7a\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3135374016b026e280d521ce5ff13c85\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3135374016b026e280d521ce5ff13c85\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\bd605322d150aeb9c9f6c2deb1dd214d\core-1.1.0\AndroidManifest.xml:24:5-89
@@ -188,50 +188,52 @@ MERGED from [:firebase_core] D:\my_ledger\build\firebase_core\intermediates\libr
 MERGED from [:firebase_core] D:\my_ledger\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ed9e0ec9fef0afe64b211f9cc5ae5a3b\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ed9e0ec9fef0afe64b211f9cc5ae5a3b\multidex-2.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\e6bfb1fbe82633103878b9f7637284b3\jetified-firebase-analytics-ktx-18.0.3\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\e6bfb1fbe82633103878b9f7637284b3\jetified-firebase-analytics-ktx-18.0.3\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3fc14508abf69332fc8f1be1662127a6\jetified-firebase-auth-ktx-20.0.4\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3fc14508abf69332fc8f1be1662127a6\jetified-firebase-auth-ktx-20.0.4\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\09f8895e44d256d36124b7b54343fbda\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\09f8895e44d256d36124b7b54343fbda\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-analytics:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b5e8dbd19f18465cd437049cf4e608d7\jetified-firebase-analytics-18.0.3\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b5e8dbd19f18465cd437049cf4e608d7\jetified-firebase-analytics-18.0.3\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:21:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\1f6de034a1134de8a83e0394a01deb70\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\1f6de034a1134de8a83e0394a01deb70\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ffce5d2bf412640061cf20882777ea9\jetified-firebase-analytics-ktx-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ffce5d2bf412640061cf20882777ea9\jetified-firebase-analytics-ktx-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\9b5f0f56bc197e1b3eb9cbfe6f6d8ffe\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\9b5f0f56bc197e1b3eb9cbfe6f6d8ffe\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\dc0a75dd435626dbabdac45137c1fcba\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\dc0a75dd435626dbabdac45137c1fcba\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\86c05eb0cc311bf4fef8332a6d6cfc18\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\86c05eb0cc311bf4fef8332a6d6cfc18\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\7af1273bb4df4cd96125b999586de8dd\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\7af1273bb4df4cd96125b999586de8dd\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\662772ff09e1efc3e019adf5858e4467\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\662772ff09e1efc3e019adf5858e4467\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\5411e8a98af1c9416e7adc4e4a852142\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\5411e8a98af1c9416e7adc4e4a852142\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b2e818a75763ef1536ab023b08800028\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b2e818a75763ef1536ab023b08800028\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d69d3abc7ba7f1faf459e0226873599a\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d69d3abc7ba7f1faf459e0226873599a\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\1852df82eccc14efc66f03c39f1f5579\jetified-play-services-measurement-sdk-18.0.3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\1852df82eccc14efc66f03c39f1f5579\jetified-play-services-measurement-sdk-18.0.3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\7b179027a62fc2698fc6e110756245e0\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\7b179027a62fc2698fc6e110756245e0\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\317c50a086f81c5fb009739e9c3aa422\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\317c50a086f81c5fb009739e9c3aa422\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\18a03121ec9d4083fd004c3abae3718d\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\18a03121ec9d4083fd004c3abae3718d\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d67d03500d381b42596a836218b1b65d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d67d03500d381b42596a836218b1b65d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\a1adca6dc448a25d8c202bc37619a468\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\a1adca6dc448a25d8c202bc37619a468\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\bf71c34abc565a4c0fd9f55f7c358473\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\bf71c34abc565a4c0fd9f55f7c358473\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\044aded6ea26e3826191bd93869c5d55\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\044aded6ea26e3826191bd93869c5d55\jetified-play-services-measurement-base-18.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cca7609ade5f14f72e7884b02df9691\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cca7609ade5f14f72e7884b02df9691\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ac6c654743520714e226d165752874c\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ac6c654743520714e226d165752874c\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\54834e2e5b84e8275b3653f220bf3c15\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\54834e2e5b84e8275b3653f220bf3c15\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4dd92bf7ff1bbfa360613d227eea1083\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4dd92bf7ff1bbfa360613d227eea1083\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\f11e7352381439c49883a04d1f375d7a\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\f11e7352381439c49883a04d1f375d7a\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3135374016b026e280d521ce5ff13c85\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3135374016b026e280d521ce5ff13c85\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e83ed9649bd95fbba014d05be87f69d\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -272,8 +274,6 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\voleti\.
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b27e9727239bb84f4e16b3ac1fd20c0d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\0c7587fc2767c51a9de783ad5000e7ad\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\0c7587fc2767c51a9de783ad5000e7ad\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\cce113eda6b47a6597fae07599291b42\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\cce113eda6b47a6597fae07599291b42\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b74f7d796a6a96af3dbe8c4a177f784d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b74f7d796a6a96af3dbe8c4a177f784d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\7dc0777b35dfb1f921c2369dfe726ba8\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -300,46 +300,46 @@ uses-permission#android.permission.INTERNET
 ADDED from D:\my_ledger\android\app\src\debug\AndroidManifest.xml:6:5-66
 MERGED from [:firebase_analytics] D:\my_ledger\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-67
 MERGED from [:firebase_analytics] D:\my_ledger\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-67
-MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\bf71c34abc565a4c0fd9f55f7c358473\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\bf71c34abc565a4c0fd9f55f7c358473\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cca7609ade5f14f72e7884b02df9691\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cca7609ade5f14f72e7884b02df9691\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from D:\my_ledger\android\app\src\debug\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:firebase_analytics] D:\my_ledger\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
-MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
-MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
-MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\bf71c34abc565a4c0fd9f55f7c358473\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\bf71c34abc565a4c0fd9f55f7c358473\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cca7609ade5f14f72e7884b02df9691\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cca7609ade5f14f72e7884b02df9691\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
 	android:name
 		ADDED from [:firebase_analytics] D:\my_ledger\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [:firebase_analytics] D:\my_ledger\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\bf71c34abc565a4c0fd9f55f7c358473\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\bf71c34abc565a4c0fd9f55f7c358473\jetified-play-services-measurement-sdk-api-18.0.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cca7609ade5f14f72e7884b02df9691\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cca7609ade5f14f72e7884b02df9691\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:25:5-68
 	android:name
 		ADDED from [:firebase_analytics] D:\my_ledger\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-65
 service#com.google.firebase.components.ComponentDiscoveryService
@@ -348,26 +348,26 @@ MERGED from [:firebase_auth] D:\my_ledger\build\firebase_auth\intermediates\libr
 MERGED from [:firebase_auth] D:\my_ledger\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 MERGED from [:firebase_core] D:\my_ledger\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 MERGED from [:firebase_core] D:\my_ledger\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\e6bfb1fbe82633103878b9f7637284b3\jetified-firebase-analytics-ktx-18.0.3\AndroidManifest.xml:8:9-14:19
-MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\e6bfb1fbe82633103878b9f7637284b3\jetified-firebase-analytics-ktx-18.0.3\AndroidManifest.xml:8:9-14:19
-MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3fc14508abf69332fc8f1be1662127a6\jetified-firebase-auth-ktx-20.0.4\AndroidManifest.xml:8:9-14:19
-MERGED from [com.google.firebase:firebase-auth-ktx:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3fc14508abf69332fc8f1be1662127a6\jetified-firebase-auth-ktx-20.0.4\AndroidManifest.xml:8:9-14:19
-MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\09f8895e44d256d36124b7b54343fbda\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:12:9-18:19
-MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\09f8895e44d256d36124b7b54343fbda\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:12:9-18:19
-MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:74:9-80:19
-MERGED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:74:9-80:19
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
-MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
-MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
-MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ffce5d2bf412640061cf20882777ea9\jetified-firebase-analytics-ktx-19.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ffce5d2bf412640061cf20882777ea9\jetified-firebase-analytics-ktx-19.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\9b5f0f56bc197e1b3eb9cbfe6f6d8ffe\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\9b5f0f56bc197e1b3eb9cbfe6f6d8ffe\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\dc0a75dd435626dbabdac45137c1fcba\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\dc0a75dd435626dbabdac45137c1fcba\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\e6bfb1fbe82633103878b9f7637284b3\jetified-firebase-analytics-ktx-18.0.3\AndroidManifest.xml:10:13-37
+		ADDED from [com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ffce5d2bf412640061cf20882777ea9\jetified-firebase-analytics-ktx-19.0.0\AndroidManifest.xml:10:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:37:13-32
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
 	android:name
 		ADDED from [:firebase_analytics] D:\my_ledger\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:12:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebaseanalytics.FlutterFirebaseAppRegistrar
@@ -389,121 +389,115 @@ ADDED from [:firebase_core] D:\my_ledger\build\firebase_core\intermediates\libra
 	android:name
 		ADDED from [:firebase_core] D:\my_ledger\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
 meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
-ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\e6bfb1fbe82633103878b9f7637284b3\jetified-firebase-analytics-ktx-18.0.3\AndroidManifest.xml:11:13-13:85
+ADDED from [com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ffce5d2bf412640061cf20882777ea9\jetified-firebase-analytics-ktx-19.0.0\AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\e6bfb1fbe82633103878b9f7637284b3\jetified-firebase-analytics-ktx-18.0.3\AndroidManifest.xml:13:17-82
+		ADDED from [com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ffce5d2bf412640061cf20882777ea9\jetified-firebase-analytics-ktx-19.0.0\AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\e6bfb1fbe82633103878b9f7637284b3\jetified-firebase-analytics-ktx-18.0.3\AndroidManifest.xml:12:17-126
+		ADDED from [com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6ffce5d2bf412640061cf20882777ea9\jetified-firebase-analytics-ktx-19.0.0\AndroidManifest.xml:12:17-126
 meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
-ADDED from [com.google.firebase:firebase-auth-ktx:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3fc14508abf69332fc8f1be1662127a6\jetified-firebase-auth-ktx-20.0.4\AndroidManifest.xml:11:13-13:85
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\9b5f0f56bc197e1b3eb9cbfe6f6d8ffe\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth-ktx:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3fc14508abf69332fc8f1be1662127a6\jetified-firebase-auth-ktx-20.0.4\AndroidManifest.xml:13:17-82
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\9b5f0f56bc197e1b3eb9cbfe6f6d8ffe\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth-ktx:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3fc14508abf69332fc8f1be1662127a6\jetified-firebase-auth-ktx-20.0.4\AndroidManifest.xml:12:17-116
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\9b5f0f56bc197e1b3eb9cbfe6f6d8ffe\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:12:17-116
 meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
-ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\09f8895e44d256d36124b7b54343fbda\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:15:13-17:85
+ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\dc0a75dd435626dbabdac45137c1fcba\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
 	android:value
-		ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\09f8895e44d256d36124b7b54343fbda\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:17:17-82
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\dc0a75dd435626dbabdac45137c1fcba\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\09f8895e44d256d36124b7b54343fbda\jetified-firebase-common-ktx-19.5.0\AndroidManifest.xml:16:17-113
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\dc0a75dd435626dbabdac45137c1fcba\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
 activity#com.google.firebase.auth.internal.GenericIdpActivity
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:27:9-44:20
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:29:13-46
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:31:13-44
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:32:13-72
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:28:13-80
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:33:13-43:29
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
 action#android.intent.action.VIEW
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:34:17-69
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:34:25-66
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
 category#android.intent.category.DEFAULT
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:36:17-76
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:36:27-73
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:37:17-78
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:37:27-75
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
 data
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:39:17-42:51
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
 	android:path
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:41:21-37
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
 	android:host
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:40:21-49
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
 	android:scheme
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:42:21-48
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
 activity#com.google.firebase.auth.internal.RecaptchaActivity
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:45:9-62:20
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:47:13-46
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:49:13-44
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:48:13-36
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:50:13-72
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:46:13-79
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:51:13-61:29
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
 service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:64:9-73:19
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
 	android:enabled
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:66:13-35
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:67:13-37
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:65:13-101
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
 intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:68:13-72:29
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
 action#com.google.firebase.auth.api.gms.service.START
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:69:17-89
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:69:25-86
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:77:13-79:85
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:79:17-82
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.4] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\6006eece3af7c306737b7a2cf1b39271\jetified-firebase-auth-20.0.4\AndroidManifest.xml:78:17-109
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8152637e5bd431d85c641d854d94d8ac\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:30:13-32:85
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:32:17-82
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\077fa7842f14babb2f10f76b3e0568db\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:31:17-139
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3e94460819cfab9c4cfbfff72c1f0360\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
 meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
-ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
 	android:value
-		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\ae9999b7554cdab50621fb0bebd3914c\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\27f4ba203ac0232ec77fafa8a8edb051\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
-meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
-ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
-	android:value
-		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\831c7645dfcdd9c0b1080292c816e8dc\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\2cc07aa07c8234c0374c1a405ddc6cb3\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d69d3abc7ba7f1faf459e0226873599a\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
 	android:exported
@@ -513,37 +507,37 @@ ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\voleti\.g
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\d69d3abc7ba7f1faf459e0226873599a\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\b08935d53d3072a1b5d857ee55fe4bb2\jetified-play-services-measurement-impl-18.0.3\AndroidManifest.xml:26:5-110
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\4b5d3b2b2484d5f4678e87fda26f071e\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:26:22-107
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:31:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:30:13-85
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:35:9-38:40
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:37:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:38:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:36:13-84
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:39:9-43:72
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:41:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:42:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:43:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\31c6601b9aab3f7d997483832f0cabab\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:40:13-87
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\8f7130793e6d9666dd9628ec43a0323e\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\voleti\.gradle\caches\transforms-2\files-2.1\3135374016b026e280d521ce5ff13c85\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
 	android:value

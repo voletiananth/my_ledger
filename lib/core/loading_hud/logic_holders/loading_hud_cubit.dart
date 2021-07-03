@@ -8,9 +8,6 @@ class ProgressHudCubit extends Cubit<ProgressHudState> {
 
   void showHud() {
     emit(ProgressHudState.loading());
-  }
-
-  void closeHud() {
     emit(ProgressHudState.initial());
   }
 }

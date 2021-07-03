@@ -26,10 +26,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiBlocProvider(
       providers: [
-        BlocProvider(create: (context) => getIt<AuthCubit>(),),
-        BlocProvider(create: (context)=>getIt<ProgressHudCubit>())
+        BlocProvider(
+          create: (context) => getIt<AuthCubit>(),
+        ),
+        BlocProvider(create: (context) => getIt<ProgressHudCubit>())
       ],
-     
       child: Builder(
         builder: (context) => MaterialApp(
           debugShowCheckedModeBanner: false,
@@ -39,14 +40,14 @@ class MyApp extends StatelessWidget {
             primaryColor: Color(0xff384877),
             visualDensity: VisualDensity.adaptivePlatformDensity,
           ),
-          initialRoute: context.read<AuthCubit>().state.when(
-              authenticated: () => HomePage.routeName,
-              unauthenticated: () => MobileNumberPage.routeName),
-          // initialRoute: Sample.routeName,
+          // initialRoute: context.read<AuthCubit>().state.when(
+          //     authenticated: () => HomePage.routeName,
+          //     unauthenticated: () => MobileNumberPage.routeName),
+          initialRoute: HomePage.routeName,
           routes: {
             HomePage.routeName: (_) => HomePage(),
             MobileNumberPage.routeName: (_) => MobileNumberPage(),
-            Sample.routeName:(_)=>Sample()
+            Sample.routeName: (_) => Sample()
           },
         ),
       ),

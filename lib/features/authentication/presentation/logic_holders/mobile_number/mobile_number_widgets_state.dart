@@ -4,7 +4,7 @@ part of 'mobile_number_cubit.dart';
 class MobileNumberButtonState with _$MobileNumberButtonState {
   const factory MobileNumberButtonState.clickable() = _Clickable;
   const factory MobileNumberButtonState.unClickable() = _UnClickable;
-  const factory MobileNumberButtonState.loading() = _Loading;
+
 }
 
 @freezed

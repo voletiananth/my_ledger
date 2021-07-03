@@ -13,6 +13,7 @@ class ProgressHud extends HookWidget {
   Widget build(BuildContext context) {
     return BlocListener<ProgressHudCubit, ProgressHudState>(
       listener: (context, state) {
+        print(state);
         state.when(
           initial: () {},
           loading: () {
@@ -20,21 +21,12 @@ class ProgressHud extends HookWidget {
               barrierDismissible: false,
               context: context,
               builder: (context) {
-                return BlocListener<ProgressHudCubit, ProgressHudState>(
-                  listener: (context, state) {
-                    state.when(
-                        initial: () {
-                          Navigator.of(context).pop();
-                        },
-                        loading: () {});
-                  },
-                  child: Center(
-                    child: CircularProgressIndicator(
-                      backgroundColor: Colors.white,
-                      valueColor: AlwaysStoppedAnimation(
-                          Theme.of(context).primaryColor),
-                      strokeWidth: 8,
-                    ),
+                return Center(
+                  child: CircularProgressIndicator(
+                    backgroundColor: Colors.white,
+                    valueColor:
+                        AlwaysStoppedAnimation(Theme.of(context).primaryColor),
+                    strokeWidth: 8,
                   ),
                 );
               },

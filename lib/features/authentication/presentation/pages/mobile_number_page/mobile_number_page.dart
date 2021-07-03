@@ -21,7 +21,7 @@ class MobileNumberPage extends HookWidget {
     return BlocProvider<MobileNumberCubit>(
       create: (context) => getIt<MobileNumberCubit>(),
       child: ProgressHud(
-              child: Scaffold(
+              child: Scaffold(  
             body: Container(
           margin: EdgeInsets.only(top: 120),
           height: MediaQuery.of(context).size.height * 0.5,

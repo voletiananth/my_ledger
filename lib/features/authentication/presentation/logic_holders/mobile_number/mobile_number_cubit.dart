@@ -20,7 +20,7 @@ class MobileNumberCubit extends Cubit<MobileNumberState> {
 
   void submit() async {
     emit(state.copyWith.call(
-        buttonState: MobileNumberButtonState.loading(),
+        buttonState: MobileNumberButtonState.unClickable(),
         inputState: MobileNumberInputState.disabled()));
     await _numberUseCase.call(
         callback: (value) {
@@ -48,7 +48,5 @@ class MobileNumberCubit extends Cubit<MobileNumberState> {
             .call(buttonState: MobileNumberButtonState.unClickable())));
   }
 
-  void closeDialog() {
-    emit(state.copyWith.call(buttonState: MobileNumberButtonState.clickable()));
-  }
+
 }

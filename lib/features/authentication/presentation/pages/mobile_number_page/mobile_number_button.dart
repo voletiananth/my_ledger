@@ -6,21 +6,18 @@ class MobileNumberButton extends StatelessWidget {
     return BlocConsumer<MobileNumberCubit, MobileNumberState>(
       listener: (context, state) {
         state.mobileVerifyFailedOrSuccess.fold(() {}, (a) {
+          Navigator.of(context).pop();
           a.fold((l) {
-            context.read<ProgressHudCubit>().closeHud();
             l.when(
                 incorrect: () {},
                 unknown: () {},
                 autoRetrieval: () {
                   showDialog(
-                          context: context,
-                          builder: (_) => BlocProvider<OtpCubit>(
-                              create: (context) => getIt<OtpCubit>(),
-                              child: OtpDialog()),
-                          barrierDismissible: false)
-                      .whenComplete(() {
-                    context.read<MobileNumberCubit>().closeDialog();
-                  });
+                      context: context,
+                      builder: (_) => BlocProvider<OtpCubit>(
+                          create: (context) => getIt<OtpCubit>(),
+                          child: OtpDialog()),
+                      barrierDismissible: false);
                 },
                 invalid: () {});
           }, (r) {
@@ -32,7 +29,6 @@ class MobileNumberButton extends StatelessWidget {
         return ElevatedButton(
           onPressed: state.buttonState.maybeWhen(
               orElse: () => null,
-              loading: () {},
               clickable: () => () {
                     context.read<ProgressHudCubit>().showHud();
                     context.read<MobileNumberCubit>().submit();

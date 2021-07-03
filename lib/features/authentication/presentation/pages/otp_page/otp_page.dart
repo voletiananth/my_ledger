@@ -10,29 +10,38 @@ class OtpDialog extends HookWidget {
     final _textController = useTextEditingController();
     return Dialog(
         child: Container(
-            padding: EdgeInsets.all(12),
-            height: 172,
-            child: context.watch<OtpCubit>().state.maybeWhen(
-                orElse: () => _dialogView(_textController, context),
-                loading: () => Column(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      crossAxisAlignment: CrossAxisAlignment.center,
-                      children: [
-                        CircularProgressIndicator(
-                          valueColor: AlwaysStoppedAnimation(
-                              Theme.of(context).primaryColor),
-                          backgroundColor: Colors.white,
-                        ),
-                        Padding(
-                          padding: EdgeInsets.only(top: 12),
-                          child: Text(
-                            'Please Wait..',
-                            style: TextStyle(
-                                fontWeight: FontWeight.w700, fontSize: 20),
-                          ),
-                        )
-                      ],
-                    ))));
+      padding: EdgeInsets.all(12),
+      height: 172,
+      child: context.watch<OtpCubit>().state.otpDialogState.when(
+        initial: () {
+          return _dialogView(_textController, context);
+        },
+        loading: () {
+          return Center(child: CircularProgressIndicator() ,);
+        },
+      ),
+    ));
+    // child: context.watch<OtpCubit>().state.maybeWhen(
+    //     orElse: () => _dialogView(_textController, context),
+    //     loading: () => Column(
+    //           mainAxisAlignment: MainAxisAlignment.center,
+    //           crossAxisAlignment: CrossAxisAlignment.center,
+    //           children: [
+    //             CircularProgressIndicator(
+    //               valueColor: AlwaysStoppedAnimation(
+    //                   Theme.of(context).primaryColor),
+    //               backgroundColor: Colors.white,
+    //             ),
+    //             Padding(
+    //               padding: EdgeInsets.only(top: 12),
+    //               child: Text(
+    //                 'Please Wait..',
+    //                 style: TextStyle(
+    //                     fontWeight: FontWeight.w700, fontSize: 20),
+    //               ),
+    //             )
+    //           ],
+    //         ))));
   }
 
   Column _dialogView(
@@ -87,9 +96,7 @@ class OtpDialog extends HookWidget {
               ),
               ElevatedButton(
                 onPressed: () {
-                  context
-                      .read<OtpCubit>()
-                      .submitOtp(OtpValidate(_textController.text));
+                
                 },
                 child: Container(
                   child: Text('Submit'),

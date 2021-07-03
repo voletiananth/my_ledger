@@ -5,18 +5,22 @@ import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:my_ledger/core/di/injection.dart';
 import 'package:my_ledger/features/authentication/presentation/pages/mobile_number_page/mobile_number_page.dart';
-import 'package:my_ledger/features/dashboard/presentation/pages/timeline_page.dart';
+import 'package:my_ledger/features/dashboard/presentation/pages/dashboard.dart';
 import 'package:my_ledger/features/home/presentation/logic_holders/bottom_bar/bottom_bar_cubit.dart';
 
 class HomePage extends StatelessWidget {
   bool isFirst(int index) => index == 0 ? true : false;
   bool isLast(int index, int length) => index == length - 1;
+  final PageStorageBucket _bucket = PageStorageBucket();
+  final PageStorageKey _dashboardKey = PageStorageKey<String>('dashboard');
+
   @override
   Widget build(BuildContext context) {
     return BlocProvider<BottomBarCubit>(
       create: (context) => getIt<BottomBarCubit>(),
       child: Builder(
         builder: (BuildContext context) => Scaffold(
+          backgroundColor: Colors.white,
           appBar: AppBar(
             brightness: Brightness.dark,
             title: DropdownButton(
@@ -44,19 +48,25 @@ class HomePage extends StatelessWidget {
                   label: 'My Account'),
             ],
           ),
-          body: context.watch<BottomBarCubit>().state.map(
-              isFirst: () {
-                return TimeLinePage();
-              },
-              isSecond: () => Center(
-                      child: ElevatedButton(
-                    onPressed: () {
-                      getIt<FirebaseAuth>().signOut();
-                      Navigator.of(context)
-                          .popAndPushNamed(MobileNumberPage.routeName);
-                    },
-                    child: Text('Sign Out'),
-                  ))),
+       
+          body: PageStorage(
+            bucket: _bucket,
+            child: context.watch<BottomBarCubit>().state.map(
+                isFirst: () {
+                  return Dashboard(
+                    key: _dashboardKey,
+                  );
+                },
+                isSecond: () => Center(
+                        child: ElevatedButton(
+                      onPressed: () {
+                        getIt<FirebaseAuth>().signOut();
+                        Navigator.of(context)
+                            .popAndPushNamed(MobileNumberPage.routeName);
+                      },
+                      child: Text('Sign Out'),
+                    ))),
+          ),
         ),
       ),
     );

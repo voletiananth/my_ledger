@@ -290,10 +290,6 @@ class _$MobileNumberButtonStateTearOff {
   _UnClickable unClickable() {
     return const _UnClickable();
   }
-
-  _Loading loading() {
-    return const _Loading();
-  }
 }
 
 /// @nodoc
@@ -305,14 +301,12 @@ mixin _$MobileNumberButtonState {
   TResult when<TResult extends Object?>({
     required TResult Function() clickable,
     required TResult Function() unClickable,
-    required TResult Function() loading,
   }) =>
       throw _privateConstructorUsedError;
   @optionalTypeArgs
   TResult maybeWhen<TResult extends Object?>({
     TResult Function()? clickable,
     TResult Function()? unClickable,
-    TResult Function()? loading,
     required TResult orElse(),
   }) =>
       throw _privateConstructorUsedError;
@@ -320,14 +314,12 @@ mixin _$MobileNumberButtonState {
   TResult map<TResult extends Object?>({
     required TResult Function(_Clickable value) clickable,
     required TResult Function(_UnClickable value) unClickable,
-    required TResult Function(_Loading value) loading,
   }) =>
       throw _privateConstructorUsedError;
   @optionalTypeArgs
   TResult maybeMap<TResult extends Object?>({
     TResult Function(_Clickable value)? clickable,
     TResult Function(_UnClickable value)? unClickable,
-    TResult Function(_Loading value)? loading,
     required TResult orElse(),
   }) =>
       throw _privateConstructorUsedError;
@@ -390,7 +382,6 @@ class _$_Clickable implements _Clickable {
   TResult when<TResult extends Object?>({
     required TResult Function() clickable,
     required TResult Function() unClickable,
-    required TResult Function() loading,
   }) {
     return clickable();
   }
@@ -400,7 +391,6 @@ class _$_Clickable implements _Clickable {
   TResult maybeWhen<TResult extends Object?>({
     TResult Function()? clickable,
     TResult Function()? unClickable,
-    TResult Function()? loading,
     required TResult orElse(),
   }) {
     if (clickable != null) {
@@ -414,7 +404,6 @@ class _$_Clickable implements _Clickable {
   TResult map<TResult extends Object?>({
     required TResult Function(_Clickable value) clickable,
     required TResult Function(_UnClickable value) unClickable,
-    required TResult Function(_Loading value) loading,
   }) {
     return clickable(this);
   }
@@ -424,7 +413,6 @@ class _$_Clickable implements _Clickable {
   TResult maybeMap<TResult extends Object?>({
     TResult Function(_Clickable value)? clickable,
     TResult Function(_UnClickable value)? unClickable,
-    TResult Function(_Loading value)? loading,
     required TResult orElse(),
   }) {
     if (clickable != null) {
@@ -479,7 +467,6 @@ class _$_UnClickable implements _UnClickable {
   TResult when<TResult extends Object?>({
     required TResult Function() clickable,
     required TResult Function() unClickable,
-    required TResult Function() loading,
   }) {
     return unClickable();
   }
@@ -489,7 +476,6 @@ class _$_UnClickable implements _UnClickable {
   TResult maybeWhen<TResult extends Object?>({
     TResult Function()? clickable,
     TResult Function()? unClickable,
-    TResult Function()? loading,
     required TResult orElse(),
   }) {
     if (unClickable != null) {
@@ -503,7 +489,6 @@ class _$_UnClickable implements _UnClickable {
   TResult map<TResult extends Object?>({
     required TResult Function(_Clickable value) clickable,
     required TResult Function(_UnClickable value) unClickable,
-    required TResult Function(_Loading value) loading,
   }) {
     return unClickable(this);
   }
@@ -513,7 +498,6 @@ class _$_UnClickable implements _UnClickable {
   TResult maybeMap<TResult extends Object?>({
     TResult Function(_Clickable value)? clickable,
     TResult Function(_UnClickable value)? unClickable,
-    TResult Function(_Loading value)? loading,
     required TResult orElse(),
   }) {
     if (unClickable != null) {
@@ -525,93 +509,6 @@ class _$_UnClickable implements _UnClickable {
 
 abstract class _UnClickable implements MobileNumberButtonState {
   const factory _UnClickable() = _$_UnClickable;
-}
-
-/// @nodoc
-abstract class _$LoadingCopyWith<$Res> {
-  factory _$LoadingCopyWith(_Loading value, $Res Function(_Loading) then) =
-      __$LoadingCopyWithImpl<$Res>;
-}
-
-/// @nodoc
-class __$LoadingCopyWithImpl<$Res>
-    extends _$MobileNumberButtonStateCopyWithImpl<$Res>
-    implements _$LoadingCopyWith<$Res> {
-  __$LoadingCopyWithImpl(_Loading _value, $Res Function(_Loading) _then)
-      : super(_value, (v) => _then(v as _Loading));
-
-  @override
-  _Loading get _value => super._value as _Loading;
-}
-
-/// @nodoc
-class _$_Loading implements _Loading {
-  const _$_Loading();
-
-  @override
-  String toString() {
-    return 'MobileNumberButtonState.loading()';
-  }
-
-  @override
-  bool operator ==(dynamic other) {
-    return identical(this, other) || (other is _Loading);
-  }
-
-  @override
-  int get hashCode => runtimeType.hashCode;
-
-  @override
-  @optionalTypeArgs
-  TResult when<TResult extends Object?>({
-    required TResult Function() clickable,
-    required TResult Function() unClickable,
-    required TResult Function() loading,
-  }) {
-    return loading();
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult maybeWhen<TResult extends Object?>({
-    TResult Function()? clickable,
-    TResult Function()? unClickable,
-    TResult Function()? loading,
-    required TResult orElse(),
-  }) {
-    if (loading != null) {
-      return loading();
-    }
-    return orElse();
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult map<TResult extends Object?>({
-    required TResult Function(_Clickable value) clickable,
-    required TResult Function(_UnClickable value) unClickable,
-    required TResult Function(_Loading value) loading,
-  }) {
-    return loading(this);
-  }
-
-  @override
-  @optionalTypeArgs
-  TResult maybeMap<TResult extends Object?>({
-    TResult Function(_Clickable value)? clickable,
-    TResult Function(_UnClickable value)? unClickable,
-    TResult Function(_Loading value)? loading,
-    required TResult orElse(),
-  }) {
-    if (loading != null) {
-      return loading(this);
-    }
-    return orElse();
-  }
-}
-
-abstract class _Loading implements MobileNumberButtonState {
-  const factory _Loading() = _$_Loading;
 }
 
 /// @nodoc
